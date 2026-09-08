@@ -758,6 +758,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Novoresume](https://novoresume.com/) - Online resume builder.
 - [HelloTechRecruiters](https://hellotechrecruiters.com/) - Tailored for tech recruiters.
 - [FlowCV](https://flowcv.com/) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anon, 10/day free account) + State of ATS 2026 employer dataset.
 - [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
 
 ### Careers
