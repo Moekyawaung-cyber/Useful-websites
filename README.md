@@ -752,6 +752,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [SuperPortfolio](https://superportfolio.co/) - Online Portfolio Maker.
 - [Referd.ai](https://www.referd.ai/resume-scanner) - Free resume scanner.
 - [RxResu.me](https://rxresu.me/) - Free and open-source resume builder.
+- [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker and open State of ATS 2026 dataset.
 - [GoodCV](https://www.goodcv.com/) - Create a professional Resume/CV in minutes without Photoshop or AI techniques.
 - [JSON Resume](https://jsonresume.io/) - Upload your JSON resume according to the spec and have it rendered beautifully.
 - [CVmkr](https://cvmkr.com/) - Create, maintain, publish, and share your CVs for free.
