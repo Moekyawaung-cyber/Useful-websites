@@ -1358,6 +1358,32 @@ const SITES = [
     ],
     "searchTerms": []
   }
+
+  {
+    "id": 68,
+    "name": "StagePeek",
+    "url": "https://stagepeek.live/",
+    "category": "Maps & Weather",
+    "desc": {
+      "en": "Preview interactive 2D seating charts and 3D concert stage views across 201 venues with 1x–10x zoom.",
+      "pt": "Visualize mapas de assentos 2D interativos e vistas 3D de palcos em 201 casas de show com zoom de 1x a 10x.",
+      "es": "Explora mapas de asientos 2D interactivos y vistas 3D del escenario en 201 recintos con zoom de 1x a 10x.",
+      "fr": "Prévisualisez des plans de salle 2D interactifs et des vues 3D de scène dans 201 salles avec zoom 1x–10x.",
+      "de": "Interaktive 2D-Sitzpläne und 3D-Bühnenansichten für 201 Veranstaltungsorte mit 1x–10x-Zoom vorab prüfen."
+    },
+    "tags": [
+      "Free",
+      "No Sign-Up",
+      "Interactive",
+      "Browser-Based"
+    ],
+    "searchTerms": [
+      "concert seat view",
+      "seating chart",
+      "3d venue",
+      "stage view"
+    ]
+  }
 ];
 const CATEGORIES = ["AI & Automation", "Create & Edit", "Everyday Tools", "Gaming", "Learning", "Maps & Weather", "Privacy & Security", "Rabbit Holes"];
 const CATEGORY_LABELS = {"en": {"AI & Automation": "AI & Automation", "Create & Edit": "Create & Edit", "Everyday Tools": "Everyday Tools", "Gaming": "Gaming", "Learning": "Learning", "Maps & Weather": "Maps & Weather", "Privacy & Security": "Privacy & Security", "Rabbit Holes": "Rabbit Holes"}, "pt": {"AI & Automation": "IA & Automação", "Create & Edit": "Criar & Editar", "Everyday Tools": "Ferramentas do Dia a Dia", "Gaming": "Jogos", "Learning": "Aprendizado", "Maps & Weather": "Mapas & Clima", "Privacy & Security": "Privacidade & Segurança", "Rabbit Holes": "Descobertas"}, "es": {"AI & Automation": "IA & Automatización", "Create & Edit": "Crear & Editar", "Everyday Tools": "Herramientas Cotidianas", "Gaming": "Juegos", "Learning": "Aprendizaje", "Maps & Weather": "Mapas y Clima", "Privacy & Security": "Privacidad y Seguridad", "Rabbit Holes": "Descubrimientos"}, "fr": {"AI & Automation": "IA & Automatisation", "Create & Edit": "Créer & Modifier", "Everyday Tools": "Outils du Quotidien", "Gaming": "Jeux", "Learning": "Apprentissage", "Maps & Weather": "Cartes & Météo", "Privacy & Security": "Confidentialité & Sécurité", "Rabbit Holes": "Découvertes"}, "de": {"AI & Automation": "KI & Automatisierung", "Create & Edit": "Erstellen & Bearbeiten", "Everyday Tools": "Alltagswerkzeuge", "Gaming": "Gaming", "Learning": "Lernen", "Maps & Weather": "Karten & Wetter", "Privacy & Security": "Datenschutz & Sicherheit", "Rabbit Holes": "Entdeckungen"}};
